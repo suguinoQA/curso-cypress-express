@@ -17,31 +17,31 @@ https://play.qaxperience.com/87627-cypress-express/2105199-descendo-para-o-playg
   
   - Comandos com yarn:
 
-yarn init
-yarn remove cypress
-yarn add cypress@12.2.0 -D
-yarn cypress open
+    - yarn init
+    - yarn remove cypress
+    - yarn add cypress@12.2.0 -D
+    - yarn cypress open
 
   - Comandos com npm:
 
-npm init
-npm uninstall cypress
-npm i cypress@12.2.0 --save-dev
-npx cypress open
+    - npm init
+    - npm uninstall cypress
+    - npm i cypress@12.2.0 --save-dev
+    - npx cypress open
 
 - Rodar projeto (api + web):
 
   - Comandos com yarn:
 
-yarn install
-yarn db:init
-yarn dev
+    - yarn install
+    - yarn db:init
+    - yarn dev
 
   - Comandos com npm:
 
-npm install
-npm run db:init
-npm run dev
+    - npm install
+    - npm run db:init
+    - npm run dev
 
 ## Tests
 
