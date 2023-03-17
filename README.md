@@ -4,6 +4,7 @@ Projeto de automação criado durante realização do curso de cypress express.
 
 ## Pré-Requisitos
 
+- Cypress@12.2.0
 - Node.js
 
 ## Ambiente
@@ -49,3 +50,5 @@ npm run dev
     - npx cypress open
   - yarn:
     - yarn run cypress open
+  - headless mode:
+    - npx cypress run
