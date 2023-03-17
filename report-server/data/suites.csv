@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Mar 16 14:33:51 BRT 2023","Thu Mar 16 14:33:51 BRT 2023","280","tasks","exclusão","","","","deve remover uma task",""
+"passed","Thu Mar 16 14:33:49 BRT 2023","Thu Mar 16 14:33:50 BRT 2023","867","tasks","cadastro","","","","deve cadastrar uma nova task",""
+"passed","Thu Mar 16 14:33:51 BRT 2023","Thu Mar 16 14:33:51 BRT 2023","208","tasks","cadastro","","","","campo obrigatório",""
+"passed","Thu Mar 16 14:33:51 BRT 2023","Thu Mar 16 14:33:51 BRT 2023","290","tasks","atualização","","","","deve concluir uma task",""
+"passed","Thu Mar 16 14:33:46 BRT 2023","Thu Mar 16 14:33:47 BRT 2023","1293","","home","","","","verificar se página está no ar",""
+"passed","Thu Mar 16 14:33:50 BRT 2023","Thu Mar 16 14:33:51 BRT 2023","653","tasks","cadastro","","","","mensagem de erro ao cadastrar task duplicada",""

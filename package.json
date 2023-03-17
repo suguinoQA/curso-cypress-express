@@ -1,0 +1,17 @@
+{
+  "name": "cypress-mark",
+  "version": "1.0.0",
+  "description": "tests end2end",
+  "main": "index.js",
+  "author": "Silvio Suguino Filho",
+  "license": "MIT",
+  "devDependencies": {
+    "@shelex/cypress-allure-plugin": "^2.36.0",
+    "allure-commandline": "^2.21.0",
+    "cypress": "12.2.0",
+    "http-server": "^14.1.1"
+  },
+  "dependencies": {
+    "cypress-plugin-api": "^2.10.3"
+  }
+}
